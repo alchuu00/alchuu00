@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alchuu00</h1>
+<h1 align="center">Hi 👋, I'm Alja Čekada</h1>
 <h3 align="center">A passionate frontend developer from Slovenia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alchuu00&label=Profile%20views&color=0e75b6&style=flat" alt="alchuu00" /> </p>
