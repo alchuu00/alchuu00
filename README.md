@@ -9,13 +9,11 @@
 
 - 👯 I’m looking to collaborate on [The Odin Project](https://www.theodinproject.com/)
 
-- 👨‍💻 All of my projects are available at [work in progress](work in progress)
+- 👨‍💻 All of my projects are available at [My Portfolio]([work in progress](https://fluffy-sherbet-e93927.netlify.app/))
 
 - 💬 Ask me about **music, video games or just the life in general :)**
 
 - 📫 How to reach me **alja.cekada@gmail.com**
-
-- 📄 Know about my experiences [work in progress](work in progress)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
