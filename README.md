@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [The Odin Project](https://www.theodinproject.com/)
 
-- 👨‍💻 All of my projects are available at [My Portfolio] (https://fluffy-sherbet-e93927.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://fluffy-sherbet-e93927.netlify.app/)
 
 - 💬 Ask me about **music, video games or just the life in general :)**
 
