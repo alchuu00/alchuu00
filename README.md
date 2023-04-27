@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alja Čekada</h1>
-<h3 align="center">A Front End Developer with Experience in Healthcare</h3>
+<h3 align="center">🚀 Aspiring Frontend Developer | 🔍 Actively seeking opportunities to gain Professional Experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alchuu00&label=Profile%20views&color=0e75b6&style=plastic" alt="alchuu00" /> </p>
 
@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on [The Odin Project](https://www.theodinproject.com/)
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://fluffy-sherbet-e93927.netlify.app/)
-
-- 💬 Ask me about **music, video games or just the life in general :)**
 
 - 📫 How to reach me **alja.cekada@gmail.com**
 
