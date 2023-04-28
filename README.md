@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alja Čekada</h1>
-<h3 align="center">🚀 Aspiring Frontend Developer | 🔍 Actively seeking opportunities to gain Professional Experience</h3>
+<h3 align="center">🚀 Aspiring Frontend Developer | 🔍 Actively seeking opportunities to gain Professional Experience |🌎 Exploring the world, one destination at a time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alchuu00&label=Profile%20views&color=0e75b6&style=plastic" alt="alchuu00" /> </p>
 
