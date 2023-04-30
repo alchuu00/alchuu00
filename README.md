@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alchuu00&label=Profile%20views&color=0e75b6&style=plastic" alt="alchuu00" /> </p>
 
-- 🔭 I’m currently working on [Hyrule Compendium](https://github.com/alchuu00/zelda-cookbook)
+- 🔭 I’m currently working on [Wanderlust App](https://github.com/alchuu00/wanderlust-app/tree/main)
 
 - 🌱 I’m currently learning **ReactJS**
 
