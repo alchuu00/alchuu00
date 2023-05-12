@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://fluffy-sherbet-e93927.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aljacekada.netlify.app/)
 
 - 📫 How to reach me **alja.cekada@gmail.com**
 
