@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Wanderlust App](https://github.com/alchuu00/wanderlust-app/tree/main)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aljacekada.netlify.app/)
 
