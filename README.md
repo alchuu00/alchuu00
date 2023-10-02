@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aljacekada.netlify.app/)
 
+- 📄 My [Resume](https://aljacekada.netlify.app/static/media/resume.16d9070bb7bd348bb90f.pdf)
+
 - 📫 How to reach me **alja.cekada@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
