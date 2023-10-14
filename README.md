@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alja.cekada@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://aljacekada.netlify.app/static/media/resume.16d9070bb7bd348bb90f.pdf)
+- 📄 Know about my experiences [My Resume](https://aljacekada.netlify.app/static/media/resume.437a49525cb7c379532a.pdf)
 
 <h3 align="right">Connect with me: <a href="https://linkedin.com/in/alja-cekada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alja-cekada" height="30" width="40" /></a></h3>
 
