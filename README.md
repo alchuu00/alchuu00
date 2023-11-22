@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, my name is Alja!</h1>
-<h3 align="center">🚀 Front-end Developer</h3>
+<h3 align="center">🚀 Full-Stack Developer</h3>
 <h3 align="center">🔍 Actively seeking opportunities to gain Professional Experience</h3>
 <h3 align="center">🌎 Exploring the world, one destination at a time</h3>
 
