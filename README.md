@@ -1,7 +1,4 @@
-<h1 align="center">Hey 👋, my name is Alja!</h1>
-<h3 align="center">🚀 Full-Stack Developer</h3>
-<h3 align="center">🔍 Actively seeking opportunities to gain Professional Experience</h3>
-<h3 align="center">🌎 Exploring the world, one destination at a time</h3>
+<img src="https://media.licdn.com/dms/image/D5616AQHH50ZLl6g_vw/profile-displaybackgroundimage-shrink_350_1400/0/1701053985185?e=1706745600&v=beta&t=cV9Dvz0AlL_IC0rJEn8W1Ly4BeY-IaYGwu8ffCElt2k"></img>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=alchuu00&label=Profile%20views&color=0e75b6&style=plastic" alt="alchuu00" /> </p>
 
