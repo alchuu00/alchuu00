@@ -4,13 +4,23 @@
 
 - 🔭 I’m currently working on [AuctionBay App](https://github.com/alchuu00/auctionbay-app-backend)
 
-- 🌱 I’m currently learning **NestJS**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aljacekada.netlify.app/)
 
 - 📫 How to reach me **alja.cekada@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://aljacekada.netlify.app/static/media/resume.437a49525cb7c379532a.pdf)
+
+### My Tech Stack 🚀
+
+***Frontend:*** HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS
+
+***Backend:*** NodeJS, Express, NestJS
+
+***Database:*** PostgreSQL
+
+***Version Control:*** Git
+
+***Design Collaboration:*** Figma
 
 <h3 align="right">Connect with me: <a href="https://linkedin.com/in/alja-cekada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alja-cekada" height="30" width="40" /></a></h3>
 
