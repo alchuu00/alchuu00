@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=alchuu00&label=Profile%20views&color=0e75b6&style=plastic" alt="alchuu00" /> </p>
 
-- 🔭 I’m currently working on [AuctionBay App](https://github.com/alchuu00/auctionbay-app-backend)
+- 🤝 I’m currently collaborating on [Resumivise](https://github.com/PooriaT/Resumivise)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aljacekada.netlify.app/)
 
