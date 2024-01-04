@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQHH50ZLl6g_vw/profile-displaybackgroundimage-shrink_350_1400/0/1701053985185?e=1706745600&v=beta&t=cV9Dvz0AlL_IC0rJEn8W1Ly4BeY-IaYGwu8ffCElt2k"></img>
+<img src="https://media.licdn.com/dms/image/D5616AQEv7CrR4QBSvg/profile-displaybackgroundimage-shrink_350_1400/0/1704399665038?e=1709769600&v=beta&t=ecda6fmDUnxCga3-9YbckYui1OnJjj4QsPSxGHYFX5E"></img>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=alchuu00&label=Profile%20views&color=0e75b6&style=plastic" alt="alchuu00" /> </p>
 
