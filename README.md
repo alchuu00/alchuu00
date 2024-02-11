@@ -2,9 +2,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=alchuu00&label=Profile%20views&color=0e75b6&style=plastic" alt="alchuu00" /> </p>
 
-- 🛠️ I’m currently working on [Geotagger App](https://github.com/alchuu00/geotagger-app-backend)
+- 🛠️ I’m currently working on [TechWriterAI](https://www.techwriterai.com/)
 
-- 🤝 I’m currently collaborating on [Resumivise](https://github.com/PooriaT/Resumivise)
+- 🤝 I’m currently collaborating on [Waniskaw Foundation](https://github.com/WaniskawFoundation) & [OpenBC](https://github.com/OpenBCca)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aljacekada.netlify.app/)
 
