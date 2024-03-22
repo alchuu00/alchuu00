@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=alchuu00&label=Profile%20views&color=0e75b6&style=plastic" alt="alchuu00" /> </p>
 
-- 🛠️ I’m currently working on [TechWriterAI](https://www.techwriterai.com/)
+- 🛠️ I’m currently working on [WorkingHolidays](https://workingholidays.world/)
 
 - 🤝 I’m currently collaborating on [Waniskaw Foundation](https://github.com/WaniskawFoundation) & [OpenBC](https://github.com/OpenBCca)
 
